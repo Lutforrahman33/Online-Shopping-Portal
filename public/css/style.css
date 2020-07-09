@@ -1,0 +1,32 @@
+html{
+ height: 100%;
+
+}
+
+body{
+
+	position: relative;
+	min-height: 100%;
+	padding-bottom: 5rem; 
+}
+
+.margin-top-20{
+	margin-top: 20px ;
+}
+.feature-img{
+	max-height: 200px;
+}
+
+.footer-bottom{
+	padding: 20px;
+	margin-top: 20px;
+	background: gray;
+	
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.child-row{
+    padding-left: 20px;
+}
